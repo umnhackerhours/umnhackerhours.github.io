@@ -9,10 +9,9 @@ url: "http://hackerhours.github.umn.edu"
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
 excerpt_separator: <!--break-->
 exclude: ["bin","README.md", "bundle", "Gemfile", "Gemfile.lock"]
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter: pygments
