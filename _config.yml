@@ -7,7 +7,7 @@ url: "http://hackerhours.github.umn.edu"
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: pretty
 paginate: 5
 excerpt_separator: <!--break-->
