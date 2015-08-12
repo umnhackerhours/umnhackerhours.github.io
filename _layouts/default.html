@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<title>Hacker Hours UMN</title>
 		<!--	None of this mobile stuff will work if you don't use a viewport meta tag -->
@@ -11,7 +11,9 @@
 		<![endif]-->
 		<!--	Script below controls dropdown toggle and footer accordion. -->
 		<script src="js/umnhf-2015.js" type="text/javascript"></script>
-		<script src="js/html5shiv-printshiv.js" type="text/javascript"></script>
+    <script src="js/html5shiv-printshiv.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
 	</head>
 	<body>
 		<!-- Skip Links: Give your nav and content elements the appropriate ID attributes -->
@@ -44,14 +46,16 @@
 		<div class="umnhf toggle display-after-menu-collapse" id="umnhf-alt-um">&#9776; <span class="visually-hidden">Main</span> Menu</div>
 		<header id="umnhf-alt" class="umnhf">
 			<div id="umnhf-alt-sn">
-				<h2>Hacker Hours UMN</h2>
-			</div>
+        <h2>Hacker Hours UMN</h2>
+        <p>{{ page.subheader_text }}</p>
+      </div>
 		</header>
 		<!-- END UNIT IDENTIFICATION AND NAVIGATION -->
 		<a name="main-nav"></a>
 		<a name="main-content"></a>
 		
 		<main id="umn-main" role="main">
+      <div class="alert alert-success" role="alert">{% include next_meeting.html %}</div>
       {{ content }}
 		</main>
 		<!-- END OPTIONAL UNIT FOOTER -->
