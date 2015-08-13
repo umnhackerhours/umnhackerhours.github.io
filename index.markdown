@@ -36,4 +36,4 @@ subheader_text: We are the University of Minnesota affiliate of <a href="http://
 
 ## I want to talk to you
 
-Come to the [meetup](#next_meeting), or tweet [@umnhackerhours](https://twitter.com/umnhackerhours), or join us [on Slack](https://umnhackerhours.slack.com/) or email one of the people in our [Github organization](https://github.com/umnhackerhours)
+Come to the [meetup](#next_meeting), tweet [@umnhackerhours](https://twitter.com/umnhackerhours), join us [on Slack](https://umnhackerhours.slack.com/), get [our newsletter](http://tinyletter.com/umnhackerhours), chat with us in person at [Code People](http://code-people.umn.edu/) or email one of the people in our [Github organization](https://github.com/umnhackerhours)
