@@ -1,18 +1,23 @@
 ---
 layout: page
 description: Home
-subheader_text: We are the University of Minnesota affiliate of <a href="http://hackerhours.org/">Hacker Hours</a><br />providing free office hours for coders looking to learn new skills, or anyone who wants to learn to code.
 ---
-
 <div class="page-header">
-  <h1>What are Hacker Hours?</h1>
-  <ul>
-    <li>“free office hours for programming help”</li>
-    <li>open to anyone, regardless of age or skill level</li>
-    <li>not a class, and not a lecture</li>
-  </ul>
-  Simple as that!
+  <div class="row">
+    <div class="col-md-2">
+      <img src="img/logo.jpg" class="img-responsive" />
+    </div>
+    <div class="col-md-6">
+      <h1>UMN Hacker Hours</h1>
+      <p>We are the University of Minnesota affiliate of <a href="http://hackerhours.org/">Hacker Hours</a> providing free office hours for coders looking to learn new skills, or anyone who wants to learn to code. Want to learn? Want to mentor? Come to our next meeting! Want to know more? Read on!</p>
+      <div class="alert alert-success" role="alert">
+      <a class="anchor" id="next_meeting"></a>
+      <strong>Next Meeting</strong>: August 20<sup>th</sup> and 21<sup>st</sup> at <a href="http://umn.campuscodefest.org/events/8-campus-codefest-2015">Campus Code Fest</a>
+      </div>
+    </div>
+  </div>
 </div>
+
 <div class="row">
   <div class="col-md-6">
     <h1>I Want To Learn</h1>
