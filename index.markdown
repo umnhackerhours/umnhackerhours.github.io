@@ -11,8 +11,10 @@ description: Home
       <h1>UMN Hacker Hours</h1>
       <p>We are the University of Minnesota affiliate of <a href="http://hackerhours.org/">Hacker Hours</a> providing free office hours for coders looking to learn new skills, or anyone who wants to learn to code. Want to learn? Want to mentor? Come to our next meeting! Want to know more? Read on!</p>
       <div class="alert alert-success" role="alert">
-      <a class="anchor" id="next_meeting"></a>
-      <strong>Next Meeting</strong>: August 20<sup>th</sup> and 21<sup>st</sup> at <a href="http://umn.campuscodefest.org/events/8-campus-codefest-2015">Campus Code Fest</a>
+        <a class="anchor" id="next_meeting"></a>
+        <strong>Next Meeting</strong>:<br />
+        Wednesday, August 26<sup>th</sup>, 1pm - 4pm<br />
+        <a href="http://www.northrop.umn.edu/visit/surdyks-caf-northrop">Northrop Surdyk's Cafe</a>
       </div>
     </div>
   </div>
