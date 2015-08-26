@@ -13,8 +13,9 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, August 26<sup>th</sup>, 1pm - 4pm<br />
-        <a href="http://www.northrop.umn.edu/visit/surdyks-caf-northrop">Northrop Surdyk's Cafe</a>
+        Wednesday, September 2<sup>nd</sup>, 1pm - 4pm<br />
+        <a href="http://campusmaps.umn.edu/tc/building/HHHSPA/">Hubert H. Humphrey School of Public Affairs: Room 50</a><br />
+        Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
       </div>
     </div>
   </div>
