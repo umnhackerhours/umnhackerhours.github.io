@@ -13,9 +13,9 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, September 9<sup>th</sup><br />
+        Wednesday, September 16<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        St. Paul Campus, <a href="http://campusmaps.umn.edu/tc/building/Ecology/">Ecology Building 170</a><br />
+        East Bank, <a href="http://campusmaps.umn.edu/tc/building/WmsonH/">Williamson Hall 160</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
       </div>
     </div>
