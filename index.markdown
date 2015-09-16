@@ -15,7 +15,7 @@ description: Home
         <strong>Next Meeting</strong>:<br />
         Wednesday, September 23<sup>rd</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        West Bank, <a href="http://campusmaps.umn.edu/tc/building/HHHSPA/">Humphrey 50</a><br />
+        West Bank, <a href="http://campusmaps.umn.edu/tc/building/AnderLib/">Anderson Library 120 A</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
       </div>
     </div>
