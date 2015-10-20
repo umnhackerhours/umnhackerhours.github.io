@@ -13,9 +13,9 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, October 14<sup>th</sup><br />
+        Wednesday, October 21<sup>st</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        West Bank, <a href="https://campusmaps.umn.edu/elmer-l-andersen-library">Andersen Library 120</a><br />
+        St. Paul, <a href="http://campusmaps.umn.edu/biological-sciences">Biological Sciences 15</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
       </div>
     </div>
