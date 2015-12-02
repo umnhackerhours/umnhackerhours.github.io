@@ -13,7 +13,7 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, November 11<sup>th</sup><br />
+        Wednesday, December 2<sup>nd</sup><br />
         Show up anytime between 1pm and 4pm<br />
         St. Paul, <a href="http://campusmaps.umn.edu/ecology-building">Ecology Building 170</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
