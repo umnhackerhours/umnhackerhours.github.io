@@ -15,7 +15,7 @@ description: Home
         <strong>Next Meeting</strong>:<br />
         Wednesday, December 16<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        Wilson Library, <a href="http://campusmaps.umn.edu/o-meredith-wilson-library">Wilson Library S30B</a><br />
+        East Bank, <a href="http://campusmaps.umn.edu/robert-h-bruininks-hall">Bruninks Hall 420A</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
       </div>
     </div>
