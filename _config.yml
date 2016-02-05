@@ -7,11 +7,11 @@ url: "http://hackerhours.github.umn.edu"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 permalink: pretty
 excerpt_separator: <!--break-->
 exclude: ["bin","README.md", "bundle", "Gemfile", "Gemfile.lock"]
 
 kramdown:
   input: GFM
-  syntax_highlighter: pygments
+  syntax_highlighter: rogue
