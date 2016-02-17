@@ -13,13 +13,13 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, February 10<sup>th</sup><br />
+        Wednesday, February 17<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="http://campusmaps.umn.edu/peik-gymnasium">Peik Gym G55</a><br /> -->
         <!-- West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 155</a><br /> -->
         <!-- St. Paul, <a href="http://campusmaps.umn.edu/peters-hall">Peters Hall 155</a><br /> -->
-        East Bank, <a href="http://campusmaps.umn.edu/peik-gymnasium">Peik Gym G55</a><br />
-        The <strong>Refactoring Reading Group</strong> will be discussing code smells from 3pm to 4pm<br />
+        West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 155</a><br />
+        The <strong>Code Kata Group</strong> will be discussing the <a href="https://github.com/exercism/x-common/blob/master/bob.md">Bob kata</a> from 2:30 - 4pm<br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
       </div>
     </div>
