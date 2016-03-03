@@ -13,7 +13,7 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, March 2<sup>nd</sup><br />
+        Wednesday, March 9<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="http://campusmaps.umn.edu/amundson-hall">Amundson Hall 120</a><br /> -->
         <!-- West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 155</a><br /> -->
@@ -21,9 +21,9 @@ description: Home
         <!-- The <strong>Code Kata Group</strong> will be discussing the <a href="https://github.com/exercism/x-common/blob/master/bob.md">Bob kata</a> from 2:30 - 4pm<br /> -->
         <!-- The <strong>Refactoring Reading Group</strong> will be discussing the <a href="https://refactoring.guru/smells/long-method">Long Method Smell</a> from 3 - 4pm<br /> -->
         
-        East Bank, <a href="http://campusmaps.umn.edu/amundson-hall">Amundson Hall 120</a><br />
-        The <strong>Code Kata Group</strong> will be discussing the Raindrops and RNA Trascription kata from 2:30 - 4pm<br />
-        Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a>.
+        West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 155</a><br />
+        The <strong>Refactoring Reading Group</strong> will be discussing Code Smells from 3 - 4pm<br />
+        Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
   </div>
