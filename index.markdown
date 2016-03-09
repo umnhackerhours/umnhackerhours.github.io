@@ -16,12 +16,12 @@ description: Home
         Wednesday, March 9<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="http://campusmaps.umn.edu/amundson-hall">Amundson Hall 120</a><br /> -->
-        <!-- West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 155</a><br /> -->
+        <!-- West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 317</a><br /> -->
         <!-- St. Paul, <a href="http://campusmaps.umn.edu/peters-hall">Peters Hall 155</a><br /> -->
         <!-- The <strong>Code Kata Group</strong> will be discussing the <a href="https://github.com/exercism/x-common/blob/master/bob.md">Bob kata</a> from 2:30 - 4pm<br /> -->
         <!-- The <strong>Refactoring Reading Group</strong> will be discussing the <a href="https://refactoring.guru/smells/long-method">Long Method Smell</a> from 3 - 4pm<br /> -->
         
-        West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 155</a><br />
+        West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 317</a><br />
         The <strong>Refactoring Reading Group</strong> will be discussing Code Smells from 3 - 4pm<br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
