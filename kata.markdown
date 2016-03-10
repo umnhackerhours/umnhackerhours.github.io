@@ -28,19 +28,19 @@ Once you're set up on Exercism, let me know and I'll add you to the UMN Code Kat
 
 If you're not interested in using Exercism, that's fine. All of the Exercism problems are available on GitHub and I'll be sending out links as part of the announcement emails.
 
-#### Starting This Week's Kata
-
-At our next meeutp, we'll be discussing the Raindrops and RNA Transcription katas.
+#### Starting A Kata
 
 If you're using Exercism, go to the command line and type
 
-`exercism fetch [your language] raindrops`
+`exercism fetch [your language] [exercise name]`
 
-`exercism fetch [your language] rna-transcription`
+Example: `exercism fetch ruby rna-transcription`
 
 Then, in your exercism directory,
 
-`cd [your language] raindrops` (or rna-transcription)
+`cd [your language]/[exercise name]`
+
+Example: `cd ruby/rna-transcription`
 
 There should be a Readme and maybe some other files in there to get you started.
 
