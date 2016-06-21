@@ -15,8 +15,8 @@ description: Home
         <strong>Next Meeting</strong>:<br />
         Wednesday, June 15<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        <!-- East Bank, <a href="http://campusmaps.umn.edu/amundson-hall">Amundson Hall 120</a><br /> -->
-        <!-- West Bank, <a href="http://campusmaps.umn.edu/blegen-hall">Blegen Hall 317</a><br /> -->
+        <!-- East Bank, <a href="http://campusmaps.umn.edu/robert-h-bruininks-hall">Bruininks Hall 420 A</a><br /> -->
+        <!-- West Bank, <a href="http://campusmaps.umn.edu/hubert-h-humphrey-school-public-affairs">Humphrey 20</a><br /> -->
         <!-- St. Paul, <a href="http://campusmaps.umn.edu/ecology-building">Ecology 170</a><br /> -->
         <!-- The <strong>Code Kata Group</strong> will be discussing the <a href="https://github.com/exercism/x-common/blob/master/bob.md">Bob kata</a> from 2:30 - 4pm<br /> -->
         <!-- The <strong>Refactoring Reading Group</strong> will be discussing the <a href="https://refactoring.guru/smells/long-method">Long Method Smell</a> from 3 - 4pm<br /> -->
