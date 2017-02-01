@@ -13,16 +13,15 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, January 25<sup>th</sup><br />
+        Wednesday, February 1<sup>st</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        <!-- East Bank, <a href="http://campusmaps.umn.edu/nolte-center-continuing-education">Nolte Center 140</a><br /> -->
+        <!-- East Bank, <a href="http://campusmaps.umn.edu/cooke-hall">Cooke Hall 214</a><br /> -->
         <!-- West Bank, <a href="http://campusmaps.umn.edu/hubert-h-humphrey-school-public-affairs">Humphrey 50B (AKA, the room in the back of the computer lab)</a><br /> -->
         <!-- St. Paul, <a href="http://campusmaps.umn.edu/peters-hall">Peters Hall 145</a><br /> -->
         <!-- The <strong>Code Kata Group</strong> will be discussing the <a href="https://github.com/exercism/x-common/blob/master/bob.md">Bob kata</a> from 2:30 - 4pm<br /> -->
         <!-- The <strong>Refactoring Reading Group</strong> will be discussing the <a href="https://refactoring.guru/smells/long-method">Long Method Smell</a> from 3 - 4pm<br /> -->
 
-        St. Paul, <a href="http://campusmaps.umn.edu/peters-hall">Peters Hall 145</a><br />
-        The <strong>Refactoring Reading Group</strong> will be discussing the Code Smells from 3 - 4pm<br />
+        East Bank, <a href="http://campusmaps.umn.edu/cooke-hall">Cooke Hall 214</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
