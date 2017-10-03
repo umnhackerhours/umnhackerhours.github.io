@@ -13,14 +13,12 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, September 27<sup>th</sup><br />
+        Wednesday, October 4<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/f8667449-84f5-4392-9607-ae9f2335ef5b">Humphrey 20</a><br /> -->
-        <!-- St. Paul, <a href="http://campusmaps.umn.edu/peters-hall">Peters Hall 145</a><br /> -->
-        <!-- The <strong>Code Kata Group</strong> will be discussing the <a href="https://github.com/exercism/x-common/blob/master/bob.md">Bob kata</a> from 2:30 - 4pm<br /> -->
-        <!-- The <strong>Refactoring Reading Group</strong> will be discussing the <a href="https://refactoring.guru/smells/long-method">Long Method Smell</a> from 3 - 4pm<br /> -->
+        <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br /> -->
 
-        West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/f8667449-84f5-4392-9607-ae9f2335ef5b">Humphrey 20</a><br />
+        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
