@@ -13,13 +13,13 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, December 13<sup>th</sup><br />
+        Wednesday, December 20<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/154a5d45-e466-45c9-b64b-309de60e9e5d">Nicholson Hall 315</a><br /> -->
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/f8667449-84f5-4392-9607-ae9f2335ef5b">Humphrey 20</a><br /> -->
         <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br /> -->
 
-        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/154a5d45-e466-45c9-b64b-309de60e9e5d">Nicholson Hall 315</a><br />
+        West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/f8667449-84f5-4392-9607-ae9f2335ef5b">Humphrey 20</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
