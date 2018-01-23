@@ -13,13 +13,13 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, January 17<sup>th</sup><br />
+        Wednesday, January 24<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/50fbb9ed-3851-4ea0-a80a-d717efc2dc35">Elliot Hall N647</a><br /> -->
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/9c3f5ac7-a004-4f04-bab5-e454e9c2292c">Mondale Hall 20</a><br /> -->
         <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/c0619129-43e2-495e-98e3-5868ea0cc817">Hodson Hall 490</a><br /> -->
 
-        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/c0619129-43e2-495e-98e3-5868ea0cc817">Hodson Hall 490</a><br />
+        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/50fbb9ed-3851-4ea0-a80a-d717efc2dc35">Elliot Hall N647</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
