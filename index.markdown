@@ -19,7 +19,7 @@ description: Home
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/69098659-4825-45b7-96d5-902f6b428017">Humphrey 50A (Computer Lab)</a><br /> -->
         <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/c0619129-43e2-495e-98e3-5868ea0cc817">Hodson Hall 490</a><br /> -->
 
-        <!-- East Bank, <a href="">Bruininks Hall 420A</a><br /> -->
+        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/1c70e5d2-64c9-47e0-adc5-b1fe6dc41c61">Bruininks Hall 420A</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
