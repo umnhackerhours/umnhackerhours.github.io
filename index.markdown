@@ -13,13 +13,13 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, May 30<sup>th</sup><br />
+        Wednesday, June 6<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/6b2fc4e1-60f0-4d06-adb3-f2c58e314c6c">Nicholson Hall 345</a><br /> -->
-        <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/69098659-4825-45b7-96d5-902f6b428017">Humphrey 50A (Computer Lab)</a><br /> -->
+        <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/5a3841ba-32b2-4dcd-bac6-deda166f50f2">Carlson 2-219</a><br /> -->
         <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/c0619129-43e2-495e-98e3-5868ea0cc817">Hodson Hall 490</a><br /> -->
 
-        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/1c70e5d2-64c9-47e0-adc5-b1fe6dc41c61">Bruininks Hall 420A</a><br />
+        West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/5a3841ba-32b2-4dcd-bac6-deda166f50f2">Carlson 2-219</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
