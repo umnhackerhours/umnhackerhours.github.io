@@ -13,13 +13,13 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, June 13<sup>th</sup><br />
+        Wednesday, June 20<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/6b2fc4e1-60f0-4d06-adb3-f2c58e314c6c">Nicholson Hall 345</a><br /> -->
+        <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/8ec1a1cb-2981-4ab1-ac3d-390ab620d10a">Bruininks Hall 121</a><br /> -->
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/5a3841ba-32b2-4dcd-bac6-deda166f50f2">Carlson 2-219</a><br /> -->
         <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br /> -->
 
-        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br />
+        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/8ec1a1cb-2981-4ab1-ac3d-390ab620d10a">Bruininks Hall 121</a><br />
         Meeting Details on <a href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
     </div>
