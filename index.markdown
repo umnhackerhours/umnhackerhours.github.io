@@ -13,10 +13,9 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, September 5<sup>th</sup> meeting has been cancelled. <br />
-        <!-- Wednesday, August 8<sup>th</sup><br /> -->
-        <!-- Show up anytime between 1pm and 4pm<br /> -->
-        <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/8ec1a1cb-2981-4ab1-ac3d-390ab620d10a">Bruininks Hall 121</a><br /> -->
+        Wednesday, September 12<sup>th</sup><br />
+        Show up anytime between 1pm and 4pm<br />
+        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/3e39ae94-b405-4037-ba20-b48a6596f014">Appleby Hall 227</a><br />
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/5a3841ba-32b2-4dcd-bac6-deda166f50f2">Carlson 2-219</a><br /> -->
         <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br /> -->
 
