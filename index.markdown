@@ -13,11 +13,11 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, November 21<sup>st</sup><br />
+        Wednesday, November 28<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/b0b85352-6f5d-4165-9361-39bc6d32adc2">Civil Engineering 213</a><br /> -->
-        West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/8eb3e115-93bc-4173-b680-30f200e00cf0">Social Sciences 278</a><br />
-        <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br /> -->
+        <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/8eb3e115-93bc-4173-b680-30f200e00cf0">Social Sciences 278</a><br /> -->
+        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/236c88ec-0616-496e-bdfa-7d3b96ee9e33">Borlaug Hall 365</a><br />
 
         Meeting Details on <a class="alert-link" href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a class="alert-link" href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
