@@ -17,7 +17,7 @@ description: Home
         Show up anytime between 1pm and 4pm<br />
         <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0e3d86be-bec7-4de5-8144-f06c876af97a">Mechanical Engineering 221</a><br /> -->
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/82ef3ed9-7bca-489f-8536-b21f972c9f03">Blegen Hall 435</a><br /> -->
-        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/0d1d7ae4-93a6-4160-b72f-9a644537bb98">Ruttan Hall 143</a><br />
+        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0d1d7ae4-93a6-4160-b72f-9a644537bb98">Ruttan Hall 143</a><br />
 
         Meeting Details on <a class="alert-link" href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a class="alert-link" href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
