@@ -15,9 +15,9 @@ description: Home
         <strong>Next Meeting</strong>:<br />
         Wednesday, January 30<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
-        <!-- East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0e3d86be-bec7-4de5-8144-f06c876af97a">Mechanical Engineering 221</a><br /> -->
+        East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0e3d86be-bec7-4de5-8144-f06c876af97a">Mechanical Engineering 221</a><br />
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/78055988-e3da-4ca5-9b77-927e0e31e420">Humphrey School of Public Affairs 60</a><br /> -->
-        St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0d1d7ae4-93a6-4160-b72f-9a644537bb98">Ruttan Hall 143</a><br />
+        <!-- St. Paul, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0d1d7ae4-93a6-4160-b72f-9a644537bb98">Ruttan Hall 143</a><br /> -->
 
         Meeting Details on <a class="alert-link" href="https://www.google.com/calendar/embed?src=umn.edu_ii9odmho4m63bsq19879mu0iis%40group.calendar.google.com&ctz=America/Chicago">Our Calendar</a> or through the <a class="alert-link" href='https://groups.google.com/a/umn.edu/d/hackerhours'>Google group</a>.
       </div>
