@@ -13,7 +13,7 @@ description: Home
       <div class="alert alert-success" role="alert">
         <a class="anchor" id="next_meeting"></a>
         <strong>Next Meeting</strong>:<br />
-        Wednesday, January 30<sup>th</sup><br />
+        Wednesday, February 27th<sup>th</sup><br />
         Show up anytime between 1pm and 4pm<br />
         East Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/0e3d86be-bec7-4de5-8144-f06c876af97a">Mechanical Engineering 221</a><br />
         <!-- West Bank, <a href="https://roomsearch.umn.edu/roomsearch/#/rooms/78055988-e3da-4ca5-9b77-927e0e31e420">Humphrey School of Public Affairs 60</a><br /> -->
